@@ -27,7 +27,9 @@ This dashboard explores the classic `mtcars` dataset and provides insights into 
 ---
 
 ## 📸 Screenshots
-*(Add 1–2 screenshots of your app here if possible)*
+## 📸 Screenshots
+![Dashboard Screenshot] (https://github.com/user-attachments/assets/a4d929fa-db0c-45a1-9adb-5025a0e3e0aa)
+
 
 ---
 
